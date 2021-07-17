@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Monty
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in C++ Programming and DS concepts
 - 🌱 I’m currently learning Multithreading using Pthread in linux
 - 💞️ I’m looking to collaborate on any application which uses C++
